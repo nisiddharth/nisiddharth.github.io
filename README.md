@@ -1,3 +1,3 @@
-# My personal website
+# My GitHub pages website
 
-View at: https://nisiddharth.github.io/
+Visit at: https://nisiddharth.github.io/
