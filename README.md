@@ -1,3 +1,3 @@
 # My GitHub pages website
 
-Visit at: https://nisiddharth.github.io/
+Visit at: https://nishchal.co/
