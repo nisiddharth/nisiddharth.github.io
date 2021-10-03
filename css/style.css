@@ -89,6 +89,7 @@ h3,
 h4,
 h5,
 h6 {
+    color: #138496;
     margin-top: 0;
     margin-bottom: .5rem
 }
@@ -5097,7 +5098,7 @@ input[type=submit].btn-block {
 
 .card-footer {
     padding: .75rem 1.25rem;
-    background-color: rgba(0, 0, 0, .03);
+    background-color: rgba(23, 162, 184, .05);
     border-top: 1px solid rgba(0, 0, 0, .125)
 }
 
