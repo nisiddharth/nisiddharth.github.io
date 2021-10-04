@@ -5105,7 +5105,7 @@ input[type=submit].btn-block {
 }
 
 .card-footer:last-child {
-    border-radius: 0 0 calc(.25rem - 1px) calc(.25rem - 1px)
+    border-radius: 0 0 calc(1rem - 1px) calc(1rem - 1px)
 }
 
 .card-header-tabs {
