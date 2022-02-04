@@ -5021,7 +5021,7 @@ input[type=submit].btn-block {
     word-wrap: break-word;
     background-color: var(--bg);
     background-clip: border-box;
-    border: 1px solid var(--border);
+    /* border: 1px solid var(--border); */
     border-radius: 1rem
 }
 
@@ -5093,7 +5093,7 @@ input[type=submit].btn-block {
 .card-footer {
     padding: .75rem 1.25rem;
     background-color: var(--hinting);
-    border-top: 1px solid var(--border)
+    /* border-top: 1px solid var(--border) */
 }
 
 .card-footer:last-child {
