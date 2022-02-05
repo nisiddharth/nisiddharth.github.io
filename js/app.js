@@ -25,9 +25,9 @@ jQuery(function () {
 
     let getDarkMode = localStorage.getItem('dark');
     // Check dark mode is on or off on page reload
-    if (getDarkMode === 'on') {
-        setDarkMode();
-    } else {
+    if (getDarkMode === 'off') {
         setLightMode();
+    } else {
+        setDarkMode();
     }
 });
